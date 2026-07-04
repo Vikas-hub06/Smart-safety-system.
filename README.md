@@ -187,15 +187,15 @@ B.E. Electronics and Communication Engineering (ECE)
 
 ### Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit_Diagram](circuit_diagram.png)
 
 ### Block Diagram
 
-![Block Diagram](block_diagram.png)
+![Block_Diagram](block_diagram.png)
 
 ### Fire Detection
 
-![Fire Detection](fire_detection.png)
+![Fire_Detection](fire_detection.png)
 
 ### Fire Alert Display
 
