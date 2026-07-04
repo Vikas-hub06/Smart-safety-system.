@@ -181,10 +181,58 @@ Author:
 
 
 Vikas ks
-
-
-
 B.E. Electronics and Communication Engineering (ECE)
+
+## Project Images
+
+### Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.png)
+
+### Block Diagram
+
+![Block Diagram](block_diagram.png)
+
+### Fire Detection
+
+![Fire Detection](fire_detection.png)
+
+### Fire Alert Display
+
+![Fire Alert Display](fire_alert_display.png)
+
+### LED and Buzzer
+
+![LED and Buzzer](led_and_buzzer.png)
+
+---
+
+## Demonstration
+
+The project demonstrates the following functionalities:
+
+- Gas leakage detection using the MQ-2 sensor.
+- Smoke detection for early warning.
+- Fire detection using the flame sensor.
+- Automatic gas valve shutdown using a servo motor.
+- LCD displays real-time system status and warning messages.
+- LED and buzzer provide immediate alerts during emergencies.
+
+The repository also includes a demonstration video:
+
+- smoke_and_gas_detection.mp4
+
+---
+
+## Future Enhancements
+
+- Automatic water spraying mechanism for fire suppression.
+- IoT-based mobile notifications using ESP32 Wi-Fi.
+- Cloud-based monitoring and event logging.
+- Mobile application for remote monitoring.
+
+
+
 
 
 
