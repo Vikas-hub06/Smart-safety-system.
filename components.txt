@@ -1,0 +1,15 @@
+Components Used
+
+-ESP32 Development Board
+MQ-2 Gas Sensor
+Smoke Sensor
+IR Flame Sensor
+16x2 LCD Display (I2C)
+Servo Motor
+LED
+220Ω Resistor
+Buzzer
+18650 Battery
+ON/OFF Switch
+Breadboard
+Jumper Wires
